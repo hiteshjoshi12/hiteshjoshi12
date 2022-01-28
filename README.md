@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hiteshjoshi12
 - 👀 I’m interested in codeing  
-- 🌱 I’m currently learning c HTML CSS JAVASCRIPT
+- 🌱 I’m currently learning C Programming HTML CSS JAVASCRIPT
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 📫 How to reach me www.linkedin.com/in/hitesh-joshi-0b868b227
 
 <!---
 hiteshjoshi12/hiteshjoshi12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
